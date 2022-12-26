@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# React Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) that provides the Admin Dashboard. (For Practice purpose)
+
+## Tech stack used
+
+- Material ui: https://mui.com/material-ui/getting-started/installation/
+- Nivo charts: https://nivo.rocks/components
+- Full calendar: https://fullcalendar.io/docs
+- Formik: https://formik.org/docs/overview#installation
+- Yup validation: https://github.com/jquense/yup
+- React pro sidebar: https://github.com/azouaoui-med/react-pro-sidebar
+- Google fonts: https://fonts.google.com/
+
+## Referenced from
+
+https://github.com/ed-roh/react-admin-dashboard
 
 ## Available Scripts
 
